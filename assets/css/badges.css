@@ -1,0 +1,22 @@
+.badge {
+  background-color: #7C8BE6;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  font-family: 'Raleway', sans-serif;
+}
+
+.publication {
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 2.5em;
+  border-bottom: 2px solid #eaeaea;
+  padding-bottom: 0.3em;
+  font-family: 'Raleway', sans-serif;
+}
