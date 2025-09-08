@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in Electrical & Computer Engineering at Carnegie Mellon University advised by [Dr. Pulkit Grover](https://users.ece.cmu.edu/~pgrover/). My research is at the intersection of machine learning, information theory, and neuroscience. I develop both theoretical and machine learning models to understand communication in noisy, high-dimensional neural data. Previously, I received Bachelor's degrees in Computer Engineering and Mathematics at Colorado State University in 2020.
+I am a fifth-year Ph.D. student in Electrical & Computer Engineering at Carnegie Mellon University advised by [Dr. Pulkit Grover](https://users.ece.cmu.edu/~pgrover/). My research is at the intersection of machine learning, information theory, and neuroscience. I develop both theoretical and machine learning models to understand communication in noisy, high-dimensional neural data. Previously, I received Bachelor's degrees in Computer Engineering and Mathematics at Colorado State University in 2020.
 
 News
 ======
+- 08/2025: One paper is accepted by IEEE EMBS NER. Thanks to all collaborators!
 - 05/2025: I am joining Sandia National Labs as a URA-Sandia Graduate Student Fellow this summer!
 - 03/2025: One paper is accepted by JNS. Thanks to all collaborators!
 - 09/2024: One paper is accepted by NeurIPS 2024. Thanks to all collaborators!

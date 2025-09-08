@@ -8,7 +8,11 @@ permalink: /publications/
 
 ## 2025
 
-- <span class="badge">JNS</span> **Stereo-electroencephalography in the setting of a preexisting deep brain stimulation device: illustrative case**  [[PDF]](../files/jns25_paper.pdf)  
+- <span class="badge">JNS</span> **Identifying neural biomarkers of risk-taking from intracranial EEG recordings.** 
+Y Guo, **A Merkley**, S. Jaffee, AC Whiting, P Grover. 
+_IEEE EMBS Neural Engineering._
+
+- <span class="badge">JNS</span> **Stereo-electroencephalography in the setting of a preexisting deep brain stimulation device: illustrative case.**  [[PDF]](../files/jns25_paper.pdf)  
 S Jaffee, N Gupta, D Kramer, DM Kusyk, J Valeriano, **A Merkley**, T Kite, S Arora, P Grover, AC Whiting.  
 _Journal of Neurosurgery: Case Lessons._
 
