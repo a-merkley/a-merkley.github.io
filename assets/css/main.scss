@@ -47,12 +47,17 @@
 // ----------------
 
 .post-content {
-  padding-top: 1.5em;
-  padding-bottom: 2em;
+  padding: 1.5em 2em;   /* top/bottom 1.5em, left/right 2em */
   line-height: 1.6;
+  max-width: 800px;     /* optional: limit content width */
+  margin: 0 auto;       /* center content block */
 }
 
 .post-content ol {
-  padding-left: 2em;    /* indent */
+  padding-left: 2em;
   margin-bottom: 1.2em;
+}
+
+.post-content li {
+  margin: 0.5em 0;
 }
