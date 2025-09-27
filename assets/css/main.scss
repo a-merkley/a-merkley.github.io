@@ -41,3 +41,18 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+// ----------------
+// Custom overrides
+// ----------------
+
+.post-content {
+  padding-top: 1.5em;
+  padding-bottom: 2em;
+  line-height: 1.6;
+}
+
+.post-content ol {
+  padding-left: 2em;    /* indent */
+  margin-bottom: 1.2em;
+}
