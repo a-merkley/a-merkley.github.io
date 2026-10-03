@@ -12,7 +12,7 @@ I am a sixth-year Ph.D. student in Electrical & Computer Engineering at Carnegie
 News
 ======
 - 09/2026: One paper is accepted by NeurIPS. Thanks to all collaborators!
-- 08/2025: One paper is accepted by IEEE EMBS NER. Thanks to all collaborators!
+- 08/2025: One paper is accepted by EMBS NER. Thanks to all collaborators!
 - 05/2025: I am joining Sandia National Labs as a URA-Sandia Graduate Student Fellow this summer!
 - 03/2025: One paper is accepted by JNS. Thanks to all collaborators!
 - 09/2024: One paper is accepted by NeurIPS. Thanks to all collaborators!
