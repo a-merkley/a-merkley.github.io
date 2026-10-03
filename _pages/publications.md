@@ -6,6 +6,12 @@ permalink: /publications/
 
 <link rel="stylesheet" href="/assets/css/badges.css">
 
+## 2026
+- <span class="badge">NeurIPS 2026</span> **Concept-localized generative representations.**
+**A Merkley**, P Grover.  
+_40th Conference on Advances in Neural Information Processing Systems._
+
+
 ## 2025
 
 - <span class="badge">JNS</span> **Identifying neural biomarkers of risk-taking from intracranial EEG recordings.** 
